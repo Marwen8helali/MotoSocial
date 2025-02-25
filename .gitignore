@@ -2,6 +2,9 @@
 
 # dependencies
 mobile/node_modules/
+api/node_modules/
+mobile/.env
+api/.env
 
 # Expo
 mobile/.expo/
@@ -34,3 +37,7 @@ mobile/.env*.local
 
 # typescript
 mobile/*.tsbuildinfo
+
+# api
+api/node_modules/
+api/.env
